@@ -19,5 +19,5 @@
 ### `npm start`
 
 ```
-# Run FrontEnd Port :5000
+# Run BackEnd Port :5000
 ```
