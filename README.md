@@ -5,7 +5,6 @@
 
 ## 💬 LiveChat Project Built with ReactJS + ExpressJS + Nodejs + MongoDB (MERN)💻
 
-## Available Scripts
 
 ## Available Scripts
 
